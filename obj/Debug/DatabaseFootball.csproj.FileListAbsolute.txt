@@ -1,0 +1,10 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Football\DatabaseFootball\bin\Debug\DatabaseFootball.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Football\DatabaseFootball\bin\Debug\DatabaseFootball.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Football\DatabaseFootball\bin\Debug\DatabaseFootball.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Football\DatabaseFootball\bin\Debug\EntityFramework.dll
+c:\users\hristo\documents\visual studio 2013\Projects\Football\DatabaseFootball\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hristo\documents\visual studio 2013\Projects\Football\DatabaseFootball\bin\Debug\EntityFramework.xml
+c:\users\hristo\documents\visual studio 2013\Projects\Football\DatabaseFootball\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hristo\documents\visual studio 2013\Projects\Football\DatabaseFootball\obj\Debug\DatabaseFootball.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\Football\DatabaseFootball\obj\Debug\DatabaseFootball.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Football\DatabaseFootball\obj\Debug\DatabaseFootball.pdb
